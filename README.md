@@ -1,2 +1,0 @@
-# joaofelipeamorim.github.io
-mywebsite
