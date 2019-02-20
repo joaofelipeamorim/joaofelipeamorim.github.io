@@ -1,0 +1,110 @@
+.body{
+    background-image: url("bin/bckgrnd.jpg");
+
+}
+.top{
+	background-color: hsl(286, 54%, 46%);
+    font-family: "Arial";
+	font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    margin: 0px;
+    border: 0px;
+    font-size: 30px;
+
+}
+
+.nav{
+	background-color: rgb(68, 29, 94); 
+	list-style: none;
+	text-align: left;
+    font-family: "Arial";
+    font-weight: bold;
+    padding-top: 10px;
+	padding-left: 50px;
+    padding-bottom: 10px;
+    margin: 0;
+
+
+}
+ 
+.nav li{
+  	table-layout: auto;
+	display: inline-block;
+	font-size: 20px;
+	padding: 15px;
+	
+
+}
+   
+#search{  
+    text-align: left;
+    margin-left: 60px;
+}
+.link {
+	color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#container {
+	margin-top: 30px;
+    margin-left: 50px;
+    position: relative;
+	width: 700px;
+	height: 670px;
+}
+#frame {
+	position: absolute;
+	
+	background: white;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0.4;
+
+}
+
+.text1 {
+    font-family: "Gill Sans", sans-serif;
+	position: absolute;
+    
+    opacity: 1;
+}
+
+.sidebar {
+	
+	position: relative;
+	margin-left: 130%;
+	width: 300px;
+	height: 800px;
+	
+}
+
+#box {
+	position: absolute;
+	background: white;
+	width: 300px;
+	height: 670px;
+	opacity: 0.8;
+
+}
+
+#content {
+	position: absolute;
+}
+.footer {
+    
+    background-color: hsl(286, 54%, 46%);
+    padding-bottom: 0px;
+    height: 210px;
+    font-family: "Arial";
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
